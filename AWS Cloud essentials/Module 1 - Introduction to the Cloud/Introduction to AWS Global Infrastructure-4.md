@@ -28,5 +28,3 @@ AWS infrastructure is designed with high availability and fault tolerance in min
 
 It's recommended to distribute your resources across multiple AZs. That way, if one AZ encounters an outage, your business applications will continue to operate without interruption. With this approach of redundancy and resource isolation, AWS customers can achieve the benefits of high availability and fault tolerance.
 
-
-
