@@ -94,9 +94,11 @@ After you are connected to the instance, you can begin using it to run commands,
 
 
 
+**Multi-tenancy** in Amazon EC2 refers to multiple tenants, or users, sharing the same instance but maintaining isolation for security and performance.
 
 
 
 
 
+Multi-tenancy is a cloud architecture where ***multiple customers share the same underlying infrastructure or application while keeping their data and resources logically isolated and secure.*** AWS commonly uses multi-tenancy to provide cost-effective and scalable services to many customers.
 
